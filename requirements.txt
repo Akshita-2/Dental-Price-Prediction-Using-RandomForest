@@ -6,3 +6,4 @@ joblib
 requests
 openpyxl
 streamlit-lottie
+matplotlib
