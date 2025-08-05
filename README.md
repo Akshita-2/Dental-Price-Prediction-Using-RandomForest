@@ -6,8 +6,7 @@ An interactive web application that predicts the cost of common dental procedure
 
 ## 🔗 Live Demo
 
-👉 [Click here to try the live demo](https://your-streamlit-link.streamlit.app)  
-_(Replace with your actual Streamlit app link)_
+👉 [Click here to try the live demo](https://dental29.streamlit.app/)  
 
 ---
 
@@ -51,12 +50,4 @@ _(Replace with your actual Streamlit app link)_
 - **Targets**:
   - Prices for different dental procedures
 
----
 
-## 📦 How to Run Locally
-
-```bash
-git clone https://github.com/yourusername/dental-price-predictor.git
-cd dental-price-predictor
-pip install -r requirements.txt
-streamlit run app.py
