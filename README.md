@@ -11,14 +11,6 @@ _(Replace with your actual Streamlit app link)_
 
 ---
 
-## 📸 Screenshots
-
-| Home Page | Prediction Results |
-|-----------|-------------------|
-| ![Home](images/home.png) | ![Results](images/results.png) |
-
----
-
 ## 🚀 Features
 
 - 🔍 Predict prices for procedures like:
